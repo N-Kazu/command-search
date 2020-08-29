@@ -14,12 +14,12 @@ Windowsキーを押した後に[path]と打ち込むと設定画面を簡単に�
 
     cmds [command] [検索ワード]
 
-設定したコマンドを使って[検索ワード]をweb検索します。
+設定したコマンドを使用して[検索ワード]をweb検索します。
 
 
     cmds -add [command] [URL]
 
--addコマンドを使うことで、[command]と[URL]を紐づけし、[command]をコマンドとして追加します。  
+-addコマンドを使用することで、[command]と[URL]を紐づけし、[command]をコマンドとして追加します。  
 [URL]はwebURLの「○○.com/search?q=」などのような、検索キーワードの部分を除外したURLを入力する必要があることに注意してください。
 
 
